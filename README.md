@@ -2,10 +2,10 @@
 This code shows how to extract descriptor from CNN model
 
 Requirement:
-python == 3.54
-pytorch == 1.0.0
-torchvision == 0.1.80
-libtorch == 1.0.0
+python == 3.54;
+pytorch == 1.0.0;
+torchvision == 0.1.80;
+libtorch == 1.0.0;
 
 Step:
 1. First run the generate.py to generate the ***.pt model
